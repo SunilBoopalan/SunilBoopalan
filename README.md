@@ -1,4 +1,4 @@
-https://github.com/SunilBoopalan/SunilBoopalan/blob/main/dino.gif
+(https://github.com/SunilBoopalan/SunilBoopalan/blob/main/dino.gif)
 
 <!--
 **SunilBoopalan/SunilBoopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
