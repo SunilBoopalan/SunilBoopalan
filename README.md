@@ -2,7 +2,7 @@
 
 Is this how we suppose use github's readme?
 
-Im into learning new stuff 24×7. You can see a full list of what I am up to on sunilboopalan.github.io.Follow me on instagram @sunilb_thereal1
+Im into learning new stuff 24×7. You can see a full list of what I am up to on sunilboopalan.github.io. Follow me on instagram @sunilb_thereal1
 <!--
 **SunilBoopalan/SunilBoopalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
