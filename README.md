@@ -6,7 +6,9 @@ Is this how we suppose use github's readme?
 <a href="https://www.linkedin.com/in/sunil-boopalan-752a41227/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/762316391491174403)](https://discord.com/users/762316391491174403)
+<a href="https://discord.com/users/705665813994012695">
+  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
 ### Hi there 👋,
 
