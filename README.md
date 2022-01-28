@@ -3,8 +3,8 @@
 Is this how we suppose use github's readme?
 
 <a href="https://www.instagram.com/sunilb_thereal1/">![Instagram](https://img.shields.io/badge/Natesplanet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/SunilBoopalan">![Twitter](https://img.shields.io/badge/Natesplanet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/jgnjwPEyDW">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-<a href="https://www.linkedin.com/in/sunil-boopalan-752a41227/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+  
+</a> <a href="https://www.linkedin.com/in/sunil-boopalan-752a41227/">![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="https://discord.com/users/705665813994012695">
   <img src="https://lanyard-profile-readme.vercel.app/api/762316391491174403?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
