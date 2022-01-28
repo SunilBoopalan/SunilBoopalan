@@ -7,7 +7,7 @@ Is this how we suppose use github's readme?
 </p>
 
 <a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/762316391491174403?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
 ### Hi there 👋,
