@@ -12,7 +12,7 @@ Is this how we suppose use github's readme?
 
 ### Hi there 👋,
 
-Im into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb_thereal1](https://www.instagram.com/sunilb_thereal1/)  .
+Im into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb_thereal1](https://www.instagram.com/sunilb_thereal1/)  ..
 
 
 
