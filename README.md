@@ -23,7 +23,7 @@ Im into learning new stuff 24×7. You can see a full list of what I am up to on 
 -------------------
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31bcas7y6xirwlcldybrtou7fbja)
 
 ---
 
