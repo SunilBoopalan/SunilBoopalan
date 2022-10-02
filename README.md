@@ -2,7 +2,7 @@
 
 Is this how we suppose use github's readme?
 
-<a href="https://www.instagram.com/sunilb_thereal1/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/SunilBoopalan">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/jgnjwPEyDW">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://www.instagram.com/sunilb.io/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/SunilBoopalan">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/jgnjwPEyDW">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
   
 </a> <a href="https://www.linkedin.com/in/sunil-boopalan-752a41227/">![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
@@ -12,7 +12,7 @@ Is this how we suppose use github's readme?
 
 ### Hi there 👋,
 
-Im into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb_thereal1](https://www.instagram.com/sunilb_thereal1/)  .
+Im into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb.io](https://www.instagram.com/sunilb.io/)  .
 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
