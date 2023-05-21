@@ -4,13 +4,6 @@
 
 ![dino](https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/cacc3a3b-006d-475e-9862-a6eb51ed9790)
 
-
-
-
-
-
-
-
 Is this how we suppose use github's readme?
 
 <a href="https://www.instagram.com/sunilb.io/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/SunilBoopalan">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/jgnjwPEyDW">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
