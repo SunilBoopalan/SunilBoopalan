@@ -1,5 +1,5 @@
 ![Simpsons-Metaverse](https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/83d94912-292d-4181-996d-4e36fedb9b3b)
-<img align="left" width="100" height="100" src="https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/d15e0f0c-02a5-411e-8a60-75957917c9a9">
+<img align="left"  src="https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/d15e0f0c-02a5-411e-8a60-75957917c9a9">
 <img src="https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/d15e0f0c-02a5-411e-8a60-75957917c9a9"  />
   </p>
 <p float="right">
