@@ -1,4 +1,5 @@
-![1](https://github.com/SunilBoopalan/SunilBoopalan/blob/main/dino.gif)![Simpsons-Metaverse](https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/784010f0-0412-4c44-93f4-0be03078475c)
+![1](https://github.com/SunilBoopalan/SunilBoopalan/blob/main/dino.gif) ![VR-NFT](https://github.com/SunilBoopalan/SunilBoopalan/assets/96052242/65d8ae53-96a3-404a-b9aa-cdf2bba65e08)
+
 
 
 Is this how we suppose use github's readme?
@@ -13,7 +14,7 @@ Is this how we suppose use github's readme?
 
 ### Hi there 👋,
 
-Im into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb.io](https://www.instagram.com/sunilb.io/)  .
+I'm into learning new stuff 24×7. You can see a full list of what I am up to on [SunilBoopalan.github.io](https://sunilboopalan.github.io/). Follow me on instagram [@sunilb.io](https://www.instagram.com/sunilb.io/)  .
 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
